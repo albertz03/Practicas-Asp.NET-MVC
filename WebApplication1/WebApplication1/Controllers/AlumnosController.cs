@@ -6,7 +6,7 @@ namespace WebApplication1.Controllers
 {
     public class AlumnosController : Controller
     {
-        // GET: HomeController1
+       GET : AlummosController
         public ActionResult Index()
         {
             //return View();
